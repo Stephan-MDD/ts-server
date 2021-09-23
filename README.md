@@ -38,3 +38,8 @@ yarn start
 ## Rest Client
 
 [Insomnia App](https://insomnia.rest/)
+
+## Resources
+
+[Http Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+[Rest APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST)
