@@ -2,6 +2,8 @@
 
 ## Prerequisite
 
+[Download Node JS](https://nodejs.org/en/download/)
+
 ```bash
 # bash
 npm install -g yarn
