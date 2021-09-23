@@ -1,1 +1,1 @@
-# ts-server
+# Simple TypeScript Server
